@@ -1,0 +1,6 @@
+{
+  "name": "과일 쏙쏙 - 중증장애 학생을 위한 과일 익히기",
+  "description": "중증 장애 학생과 특수교육 현장을 위한 큰 그림 및 음성 피드백 과일 이름 학습 보조 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
